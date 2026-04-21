@@ -1,1 +1,1 @@
-# lala
+# zazel-whitelist
